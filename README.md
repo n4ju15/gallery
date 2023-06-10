@@ -7,7 +7,7 @@ O Lightbox permite que ao passar o mouse a imagem seja ampliada possibilitando m
 🔗 [Click here to access](https://n4ju15.github.io/gallery/)
 
 <div align="center">
-<img src="./assets/.gif">
+<img src="./assets/gallery.gif">
 </div>
 
 ## Tecnologias
